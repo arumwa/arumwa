@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arumwa
+- 👋 Hi, I’m Arum
 - 👀 I’m interested in tech and science
-- 🌱 I’m currently learning programing with Python
+- 🌱 I’m currently learning programming with Python
 - 📫 How to reach me: arumwaras03@gmail.com
 
 <!---
